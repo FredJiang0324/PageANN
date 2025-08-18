@@ -111,7 +111,6 @@ compute_groundtruth \
 ---
 
 ## Notes
-- Provided 1M index and ground-truth allow reviewers to **directly test search** without full preprocessing.  
 - For larger datasets, replace the paths accordingly.  
 - Some CLI flags are kept for binary compatibility; defaults above match the paper settings.
-# PageANN
+
