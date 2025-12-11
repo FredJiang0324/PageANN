@@ -111,6 +111,6 @@ compute_groundtruth \
 ---
 
 ## Notes
-- For larger datasets, replace the paths accordingly, accept billion-scale datasets.  
+- For larger datasets, replace the paths accordingly, support billion-scale datasets.  
 - Some CLI flags are kept for binary compatibility; defaults above match the paper settings.
 
