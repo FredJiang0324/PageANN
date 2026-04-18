@@ -1,6 +1,6 @@
 # PageANN: Page-based Approximate Nearest Neighbor Search
 
-This repository provides the artifacts for PageANN evaluation.  
+This repository provides the artifacts for PageANN evaluation only.  
 
 
 ---
